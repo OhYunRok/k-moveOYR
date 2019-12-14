@@ -10,6 +10,8 @@ frontend technologies used in this project:
 backend technologies used in this project:
 
 *SpringMVC
+*ApacheTomcat
+*JSP
 *jQuery
 *MySQL
 *GoogleMapAPI
