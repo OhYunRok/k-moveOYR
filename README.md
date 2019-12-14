@@ -13,3 +13,6 @@ backend technologies used in this project:
 - jQuery  
 - MySQL  
 - GoogleMapAPI
+
+## Screenshots
+![OEshop](./images/OEshop1.jpg)
